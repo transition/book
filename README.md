@@ -15,6 +15,6 @@
 
 ## TODO
 
-[] CLI Tool
-[] Web/Mobile App
+- [ ] CLI Tool
+- [ ] Web/Mobile App
 
