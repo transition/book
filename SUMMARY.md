@@ -1,6 +1,6 @@
 # Table of contents
 
-* [transition](README.md)
+* [Transition](README.md)
 * [Idea](idea.md)
 * [Research](research.md)
 * [Validation](validation.md)
